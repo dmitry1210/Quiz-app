@@ -1,7 +1,5 @@
 # Quiz app
 
-Mini app on HTML, CSS & JS.
-
 [Weblink](https://dmitry1210.github.io/Quiz-app/)
 
 Webpage preview:
